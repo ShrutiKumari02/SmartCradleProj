@@ -1,0 +1,30 @@
+.contclass{
+    position: relative;
+    height: auto;
+    width: 100%;
+}
+.contclass img{
+    width: 100%;
+    display: block;
+    background-size: cover;
+    height: 100%;
+}
+.tnew{
+    position: absolute;
+    top: 56%;
+    left: 54%;
+    transform: translate(-50%,-50%);
+    font-size: 25px;
+}
+.headText{
+    position: absolute;
+    top: 27%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 70px;
+    color: #0089b6;
+}
+td img{
+    height: 280px;
+    width: 350px;
+}
